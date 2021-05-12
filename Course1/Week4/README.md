@@ -1,0 +1,2 @@
+# appliedDataSciencewithPython
+Course assigments
